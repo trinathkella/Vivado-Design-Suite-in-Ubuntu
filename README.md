@@ -1,6 +1,6 @@
 # Vivado-Design-Suite-in-Ubuntu
 
-Follow the steps below for installing vivado in ubuntu
+**Follow the steps below for installing vivado in ubuntu**
 
 1. Click the link https://www.xilinx.com/support/download.html
 2. Select a version, newer versions are preferred
